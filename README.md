@@ -1,3 +1,3 @@
 # MetacraftersSolidity
 
-PROJECT: CREATE A TOKEN
+#PROJECT: CREATE A TOKEN
